@@ -62,6 +62,9 @@
                 </div>
             </div>
 
+    <?php require_once 'header.php'; ?>
+    <?php require_once 'sodebar.php'; ?>       
+
             <div class="col bg-light">
 
                 <div id="myBurger" class="p-3 d-lg-none text-white bg-dark">
@@ -77,6 +80,8 @@
                     Put content here.
                 </div>
             </div>
+
+    <?php require_once 'footer.php'; ?>
 
         </div>
     </div>
