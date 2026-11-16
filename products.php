@@ -100,7 +100,7 @@ ob_start();
     </div>
 </div>
 
-<div class="card shadown-sm">
+<div class="card shadow-sm">
     <div class="card-body">
         <div class="row align-items-center mb-3">
             <div class="col">
@@ -110,8 +110,8 @@ ob_start();
                 </h5>
                 <small class="text-muted">View and manage all products in the inventory</small>
             </div>
-            <div class="col-suto">
-                <span class="badge bg-successs">Total: 1 items</span>
+            <div class="col-auto">
+                <span class="badge bg-success">Total: 1 items</span>
             </div>
         </div>
 
